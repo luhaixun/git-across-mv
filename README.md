@@ -16,4 +16,4 @@ Example: Move folderA from repoA to repoB and rename to folderB but keep the Git
                   folderB/
                           ...
 
-Usage: ./git-accross-mv.sh repoA/src/main/folderA reposB/src/test/folderB
+Usage: ./git-across-mv.sh repoA/src/main/folderA reposB/src/test/folderB
